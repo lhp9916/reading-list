@@ -26,9 +26,9 @@
 1. 如何变得有思想，阮一峰，2016年 
 
 ## 技术类
-
+1. [Laravel 教程 - Web 开发实战进阶](https://fsdhub.com/books/laravel-intermediate-training-5.5)，by Summer，2017年12月
+1. Modern PHP(中文版)，2017年10月
 1. 第一行代码（第2版），by 郭霖，2017年9月
-2. Modern PHP(中文版)，2017年10月
 
 ## TODO
 
