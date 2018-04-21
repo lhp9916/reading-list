@@ -7,7 +7,6 @@
 - [非技术类](#非技术类)
 - [技术类](#技术类)
 - [一些真实的故事](./positive-story.md)
-- [TODO](#TODO)
 
 ## 非技术类
 1. 麦田里的守望者，by 塞林格，2018年1月
@@ -27,15 +26,8 @@
 1. 如何变得有思想，阮一峰，2016年 
 
 ## 技术类
-1. [Laravel 教程 - Web 开发实战进阶](https://fsdhub.com/books/laravel-intermediate-training-5.5)，by Summer，2017年12月
+1. :+1: [Pro Git](https://git-scm.com/book/zh/v2)，2018年4月
+1. :+1: [Laravel 教程 - 实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5)，by Summer，2018年3月
+1. :+1: [Laravel 教程 - Web 开发实战进阶](https://fsdhub.com/books/laravel-intermediate-training-5.5)，by Summer，2017年12月
 1. Modern PHP(中文版)，2017年10月
 1. 第一行代码（第2版），by 郭霖，2017年9月
-
-## TODO
-
-1. 围城
-1. 智能时代
-1. 未来简史
-1. 三体全集
-1. 无声告白
-1. 耶路撒冷三千年
