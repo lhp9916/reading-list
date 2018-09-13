@@ -6,9 +6,9 @@
 
 - [非技术类](#非技术类)
 - [技术类](#技术类)
-- [一些真实的故事](./positive-story.md)
 
 ## 非技术类
+1. :+1: 三体（全集），by 刘欣慈，2018年9月
 1. 麦田里的守望者，by 塞林格，2018年1月
 1. :+1: 大教堂与集市，[美] Eric S·Raymond ，2017年12月
 1. :+1: 只是为了好玩 - Linux 之父 Linus 自传，by Linus Torvalds ，2017年12月
@@ -26,6 +26,7 @@
 1. 如何变得有思想，阮一峰，2016年 
 
 ## 技术类
+1.  :+1: [Laravel 教程 - 电商实战](https://laravel-china.org/courses/laravel-shop)
 1. :+1: [Pro Git](https://git-scm.com/book/zh/v2)，2018年4月
 1. :+1: [Laravel 教程 - 实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5)，by Summer，2018年3月
 1. :+1: [Laravel 教程 - Web 开发实战进阶](https://fsdhub.com/books/laravel-intermediate-training-5.5)，by Summer，2017年12月
