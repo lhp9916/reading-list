@@ -31,6 +31,7 @@
 1. 如何变得有思想，阮一峰，2016年 
 
 ## 技术类
+1. 图解HTTP，2019年6月
 1.  :+1: [Laravel 教程 - 电商实战](https://laravel-china.org/courses/laravel-shop)，2018年7月
 1. :+1: [Pro Git](https://git-scm.com/book/zh/v2)，2018年4月
 1. :+1: [Laravel 教程 - 实战构架 API 服务器](https://laravel-china.org/courses/laravel-advance-training-5.5)，by Summer，2018年3月
